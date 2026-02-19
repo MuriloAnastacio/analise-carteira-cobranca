@@ -1,0 +1,7 @@
+cliente,valor,dias_atraso,status
+Empresa A,5000,10,Em aberto
+Empresa B,12000,45,Em atraso
+Empresa C,3000,5,Em aberto
+Empresa D,8000,90,Crítico
+Empresa E,15000,120,Crítico
+Empresa F,2000,20,Em aberto
